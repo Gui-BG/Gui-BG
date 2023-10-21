@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um entusiasta de programação e da área de tecnologia.<br>Atualmente tenho apenas alguns cursos relacionados a área.<br>Estou participando do meu segundo Hackathon. 
+Sou um entusiasta de programação e da área de tecnologia.<br>Atualmente tenho apenas alguns cursos relacionados a área.<br>Estou participando do meu segundo Hackathon.<br>I am a programming and technology enthusiast.<br>Currently I only have a few courses related to the area.<br>I'm participating in my second Hackathon.
 
 
 # 💻 Tech Stack:
